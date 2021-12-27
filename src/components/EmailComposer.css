@@ -1,0 +1,79 @@
+.card {
+  background-color: #e68124;
+  height: 90vh;
+  margin-top: 2vh;
+  margin-left: 25vw;
+  width: 40vw;
+  border-radius: 15px;
+}
+.inp-file {
+    width: 12vw;
+    font-size: 14px;
+    margin: 5px;
+    margin-left: 6px;
+    padding: 4px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+    border-radius: 6px;
+    border: none;
+    color: #fff;
+    background: linear-gradient(
+180deg, rgb(77, 2, 17), rgb(39, 144, 185) 100%);
+    background-origin: border-box;
+    box-shadow: 0px 0.5px 1.5px rgb(54 122 246 / 25%), inset 0px 0.8px 0px -0.25px rgb(255 255 255 / 20%);
+}
+
+.btn-send {
+    font-size: 16px;
+    margin-left: 6px;
+    padding: 6px 14px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+    border-radius: 6px;
+    border: none;
+    color: #fff;
+    background: linear-gradient(
+180deg, rgb(77, 2, 17), rgb(39, 144, 185) 100%);
+
+    background-origin: border-box;
+}
+
+
+.card h2 {
+    position: relative;
+    text-align: center;
+    top: 2vh;
+}
+
+.input-url input{
+    width: 23vw;
+    height: 4vh;
+    position: relative;
+    left: 0.5vw;
+    top: 2vh;
+    border-radius: 16px;
+    box-sizing: border-box;
+    padding: 1vw;
+}
+
+.input {
+    box-sizing: border-box;
+    padding: 1vw;
+}
+
+.input-prefixes input {
+    width: 23vw;
+    height: 4vh;
+    position: relative;
+    right: 3vw;
+    top: 6vh;
+    border-radius: 12vw;
+}
+
+.input-prefixes label {
+    position: relative;
+    left: 1.3vw;
+    top: 2vh;
+}
+
+.container ul li {
+    color: red;
+}

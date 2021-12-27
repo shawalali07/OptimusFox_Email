@@ -1,0 +1,22 @@
+.wrapper-class {
+    padding: 3px;
+  }
+  .editor-class {
+    padding-left: 1vw;
+    background-color: white ;
+    border-radius: 12px;
+    display:block;
+    width:100%;
+    min-height: 35vh;
+    overflow: auto;
+    height: 27vh;
+    line-height: 5px;
+    }
+  .toolbar-class {
+    border-radius: 12px;
+    margin-top: 10vh;
+  }
+
+ 
+  
+  
